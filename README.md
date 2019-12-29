@@ -1,4 +1,5 @@
 # snake
 The classic NOKIA snake game developed for Linux using C++
 
-Last updated - Nov 2017
+### College Project
+*Last updated - Oct 2017*
